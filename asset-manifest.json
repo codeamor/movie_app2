@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/codeamor/github.io/movie_app_2019/static/css/main.bda6f60c.chunk.css",
-    "main.js": "/codeamor/github.io/movie_app_2019/static/js/main.5082c006.chunk.js",
-    "main.js.map": "/codeamor/github.io/movie_app_2019/static/js/main.5082c006.chunk.js.map",
-    "runtime-main.js": "/codeamor/github.io/movie_app_2019/static/js/runtime-main.aff5ffec.js",
-    "runtime-main.js.map": "/codeamor/github.io/movie_app_2019/static/js/runtime-main.aff5ffec.js.map",
-    "static/js/2.670a5eaa.chunk.js": "/codeamor/github.io/movie_app_2019/static/js/2.670a5eaa.chunk.js",
-    "static/js/2.670a5eaa.chunk.js.map": "/codeamor/github.io/movie_app_2019/static/js/2.670a5eaa.chunk.js.map",
-    "index.html": "/codeamor/github.io/movie_app_2019/index.html",
-    "precache-manifest.7eb9eed732f978a418bdd04cc89c9d89.js": "/codeamor/github.io/movie_app_2019/precache-manifest.7eb9eed732f978a418bdd04cc89c9d89.js",
-    "service-worker.js": "/codeamor/github.io/movie_app_2019/service-worker.js",
-    "static/css/main.bda6f60c.chunk.css.map": "/codeamor/github.io/movie_app_2019/static/css/main.bda6f60c.chunk.css.map",
-    "static/js/2.670a5eaa.chunk.js.LICENSE.txt": "/codeamor/github.io/movie_app_2019/static/js/2.670a5eaa.chunk.js.LICENSE.txt"
+    "main.css": "/github.io/movie_app_2019/static/css/main.bda6f60c.chunk.css",
+    "main.js": "/github.io/movie_app_2019/static/js/main.5082c006.chunk.js",
+    "main.js.map": "/github.io/movie_app_2019/static/js/main.5082c006.chunk.js.map",
+    "runtime-main.js": "/github.io/movie_app_2019/static/js/runtime-main.e98dbf79.js",
+    "runtime-main.js.map": "/github.io/movie_app_2019/static/js/runtime-main.e98dbf79.js.map",
+    "static/js/2.670a5eaa.chunk.js": "/github.io/movie_app_2019/static/js/2.670a5eaa.chunk.js",
+    "static/js/2.670a5eaa.chunk.js.map": "/github.io/movie_app_2019/static/js/2.670a5eaa.chunk.js.map",
+    "index.html": "/github.io/movie_app_2019/index.html",
+    "precache-manifest.bf8436164a2a2c81822cccb0a01bf165.js": "/github.io/movie_app_2019/precache-manifest.bf8436164a2a2c81822cccb0a01bf165.js",
+    "service-worker.js": "/github.io/movie_app_2019/service-worker.js",
+    "static/css/main.bda6f60c.chunk.css.map": "/github.io/movie_app_2019/static/css/main.bda6f60c.chunk.css.map",
+    "static/js/2.670a5eaa.chunk.js.LICENSE.txt": "/github.io/movie_app_2019/static/js/2.670a5eaa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aff5ffec.js",
+    "static/js/runtime-main.e98dbf79.js",
     "static/js/2.670a5eaa.chunk.js",
     "static/css/main.bda6f60c.chunk.css",
     "static/js/main.5082c006.chunk.js"
